@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "91286137648",
+    "project_id": "climate-confluence",
+    "storage_bucket": "climate-confluence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:91286137648:android:dd42074d48086fd66976f5",
+        "android_client_info": {
+          "package_name": "io.github.amansikarwar.climate_confluence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "91286137648-ob604tj8a41p64rjvnvk62atmiu74qa2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.amansikarwar.climate_confluence",
+            "certificate_hash": "01d39700b36d7e4a553cd560c27a64b7c92a0e20"
+          }
+        },
+        {
+          "client_id": "91286137648-p3rjlomubsg39ahq1i4qi1tc0guc3ng0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.amansikarwar.climate_confluence",
+            "certificate_hash": "6df5c982a0c5018b4d186a3108d5c872c8aef717"
+          }
+        },
+        {
+          "client_id": "91286137648-6161639pe0ebj2qen50r6nn51lt1jpi0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuL1_UOn942XL8P5zaIz8C69-Bx2iDnps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "91286137648-6161639pe0ebj2qen50r6nn51lt1jpi0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "91286137648-05gc5tgr5ecqv2g0utq06abpp46edccg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "io.github.amansikarwar.climateConfluence"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
