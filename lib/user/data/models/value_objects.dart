@@ -126,3 +126,18 @@ enum EducationalQualification {
     return name[0].toUpperCase() + name.substring(1);
   }
 }
+
+enum UserType {
+  individual,
+  school,
+  college,
+  ngo,
+  registeredSociety,
+  other,
+  unknown;
+
+  @override
+  String toString() {
+    return name[0].toUpperCase() + name.substring(1);
+  }
+}
